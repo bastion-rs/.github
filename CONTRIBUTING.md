@@ -3,9 +3,8 @@
 First, thank you for wanting to contribute! Bastion _needs_ community
 contributions to continue to improve.
 
-When contributing to Bastion, please first discuss the change you wish
-to make via issue, email, or any other method with the owners of Bastion
-before making a change.
+If you want to get help, feel free to ask questions on `#dev` channel
+of [our Discord server](https://discordapp.com/invite/DqRqtRT).
 
 Please note we have a code of conduct, please follow it in all your
 interactions with the project.
